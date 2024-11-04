@@ -24,7 +24,7 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,6 +40,8 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 
 # 🎖 Honors and Awards
 - *2024.4*: &nbsp;🎉🎉 Huawei Smart Pedestal Scholarship.
+- *2023.12*: &nbsp;🎉🎉  Zilizhidong Scholarship.
+- *2023.10*: &nbsp;🎉🎉  Second-class scholarship, Sichuan University(Top 5%).
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, B.S. Candidate in Computer Science, the College of Computer Science, Sichuan University
