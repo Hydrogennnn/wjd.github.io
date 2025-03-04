@@ -30,7 +30,7 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning
 
 Yikuan Hu*, Wei Zhang*, Xinyu Yang*, Zixiang Xu*, Guo Li*, Nikolay Aristov, Mingjie Tang, Elenna R Dugundji(*: Equal contribution)
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
