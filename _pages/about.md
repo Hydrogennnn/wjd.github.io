@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026 . His research direction and interests are primarily focused on AI for Science.
+Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026 . His research direction and interests are primarily focused on Graph Neural Networks(GNN).
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2024!. 
@@ -39,9 +39,9 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2024.12*: &nbsp;🎉🎉  Tencent Scholarship.
 - *2024.4*: &nbsp;🎉🎉 Huawei Smart Pedestal Scholarship.
 - *2023.12*: &nbsp;🎉🎉  Zilizhidong Scholarship.
-- *2023.10*: &nbsp;🎉🎉  Second-class scholarship, Sichuan University(Top 5%).
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, B.S. Candidate in Computer Science, the College of Computer Science, Sichuan University
