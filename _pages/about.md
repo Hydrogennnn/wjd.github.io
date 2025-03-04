@@ -27,16 +27,10 @@ Wei Zhang(张唯) is an undergraduate student at the College of Computer Science
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img src='images/temporal-IRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yikuan Hu*, Wei Zhang*, Xinyu Yang*, Zixiang Xu*, Guo Li*, Nikolay Aristov, Mingjie Tang, Elenna R Dugundji(*: Equal contribution)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.12*: &nbsp;🎉🎉  Tencent Scholarship.
