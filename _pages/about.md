@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026 . His research direction and interests are primarily focused on Graph Neural Networks(GNN).
+Wei Zhang(张唯) is an undergraduate student at the College of Computer Science, Sichuan University, expected to graduate in 2026. Under the guidance of [Associate Professor Wei Ju](https://juweipku.github.io), he is conducting interdisciplinary research at the intersection of Graph Neural Networks (GNN), deep clustering methodologies, and AI-driven scientific discovery (AI4SCI).
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 One paper has been accepted by TRB 2024!. 
