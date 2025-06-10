@@ -44,3 +44,7 @@ Yikuan Hu\*, Wei Zhang\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov,
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, B.S. Candidate in Computer Science, the College of Computer Science, Sichuan University
 
+# 💻 Internships
+**Research Intern - Graph Neural Networks (GNNs)**  
+*Data Intelligence and Computing Art Lab (DICALab)* — Jan 2025 – Present  
+*(Affiliated with Sichuan University)*
