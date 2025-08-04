@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiedong Wang(王杰栋) is an undergraduate student at the College of Computer Science, Sichuan University(SCU), advised by Assoc.Prof.[Hao Wang](https://cshaowang.github.io). 
+Jiedong Wang(王杰栋) is an undergraduate student at the College of Computer Science, Sichuan University(SCU), advised by Prof.[Hao Wang](https://cshaowang.github.io) of [XLearning](https://pengxi.me/) research group at SCU. 
 
 His research focuses on Multi-view Learning and Continual Learning.
 
@@ -25,30 +25,22 @@ His research focuses on Multi-view Learning and Continual Learning.
 - *2025.4*: &nbsp;Two papers about Multi-view learning were accepted by International Joint Conference on Artificial Intelligence(IJCAI 2025)!
 
 # 📝 Publications 
+\* Equal contribution $\dagger$ Corresponding author
+{% assign papers = site.data.papers %}
 
+{% for paper in papers %}
 <div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">TRB 2024</div>
-<img src='images/temporal-IRL.png' alt="sym" width="100%">
+  <div class='paper-box-image'>
+    <img src='{{ paper.img }}' alt='sym'>
+  </div>
+  <div class='paper-box-text'>
+  {{ paper.src | markdownify}}
+    <a href="{{ paper.link }}" target="_blank">{{ paper.title}}</a>
+    <div class="authors">{{ paper.authors | markdownify }}</div>
+  </div>
 </div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning](https://arxiv.org/pdf/2506.19843)
-
-Yikuan Hu\*, Wei Zhang\*, Xinyu Yang\*, Zixiang Xu\*, Guo Li\*, Nikolay Aristov, Mingjie Tang, Elenna R Dugundji(*: Equal contribution)
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
-
+{% endfor %}
 
 # 🎖 Honors and Awards
 - *2023.11*: &nbsp;The 2023 ICPC Asia Hefei Regional Contest, Silver Medal.
 - *2024.9*: &nbsp;National Scholarship(Undergraduate, Top 2%).
-
-# 💻 Internships
-- **Research Intern - Graph Neural Networks (GNNs)**  
-*Data Intelligence and Computing Art Lab (DICALab)* — Jan 2025 – Present  
-*(Affiliated with Sichuan University)*
